@@ -1,2 +1,3 @@
-# irfankhan-demo
-This is my first Git repository
+# Irfankhan-demo
+This is my first Git repository.
+Author: Irfankhan
